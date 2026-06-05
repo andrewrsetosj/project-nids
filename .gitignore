@@ -1,0 +1,53 @@
+# Alert logs generated at runtime
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+pip-wheel-metadata/
+.installed.cfg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Blocklist / threat-intel files (may contain sensitive data)
+threat_intel.txt
+blocklist*.txt
+malicious_ips*.txt
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+MANIFEST
