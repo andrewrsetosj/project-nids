@@ -1,6 +1,6 @@
-# Project 1984 — Simple NIDS
+# Project NIDS
 
-A Network Intrusion Detection System (NIDS) built with Python and Scapy. Sniffs live network traffic and flags suspicious behavior in real time — a stripped-down Snort built from scratch. Originally made in Fall of 2025 for ITP 325 Ethical Hacking and Systems Defense.
+A Network Intrusion Detection System (NIDS) built with Python and Scapy. Sniffs live network traffic and flags suspicious behavior in real time — a stripped-down Snort built from scratch. Originally made in Fall of 2025 for ITP 325 Ethical Hacking and Systems Defense as the final project.
 
 ## Features
 
